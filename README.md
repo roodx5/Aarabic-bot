@@ -1,2 +1,0 @@
-# Aarabic-bot
-bot arabic 
