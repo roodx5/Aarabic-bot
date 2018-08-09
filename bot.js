@@ -406,7 +406,6 @@ client.on('message', message => {
 
   .setColor("#FF0000")
   .addField('``سرعة أتصال الــبوت`` ' , `${Date.now() - message.createdTimestamp}` + ' ms`')
-                 .setFooter(` BOMbot
  
   message.channel.sendEmbed(embed);
     }
