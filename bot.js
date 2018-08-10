@@ -2180,10 +2180,7 @@ client.on("message", message => {
  }
 });
 
-  client.on('ready', () => {
-     client.user.setActivity("=help | BOT By fofo,{type: 'WATCHING'});
 
-});
   
 
 client.on('message', function(message) {
