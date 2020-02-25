@@ -1,2 +1,2 @@
 # Aarabic-bot
-discordyou23
+by roodx - alpha codes 
